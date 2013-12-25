@@ -1,4 +1,4 @@
 willchan-config
 ===============
 
-willchan's various configuration files
+Contains various configuration files (primarily UNIX) that willchan uses.
