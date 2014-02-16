@@ -5,8 +5,7 @@
 #     . ~/.willchan.bashrc
 # fi
 
-# willchan's typical GOROOT & GOPATH
-export GOROOT=/usr/local/go
+# willchan's typical GOPATH
 export GOPATH=$HOME/src/gowork
 
 # willchan's typical PATHs
