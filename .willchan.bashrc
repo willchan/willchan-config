@@ -9,4 +9,4 @@
 export GOPATH=$HOME/src/gowork
 
 # willchan's typical PATHs
-PATH=$HOME/local/bin:$PATH:$GOPATH/bin
+export "PATH+=:$HOME/bin:$GOPATH/bin"
